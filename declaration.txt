@@ -1,0 +1,2 @@
+本次课设的源码直接拷了MyEclipse的整个工程文件，其中源码部分可在ClassDesign的src目录和WebRoot目录下找到。
+数据库操作这个文本是所有的直接在SQL Server 2012中操作的代码
